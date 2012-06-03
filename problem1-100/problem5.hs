@@ -1,0 +1,1 @@
+p5 n = foldl lcm n [1..n-1]
