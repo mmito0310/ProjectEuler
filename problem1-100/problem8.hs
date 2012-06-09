@@ -1,4 +1,3 @@
--- Misunderstood problem 8><
 import Data.List
 import Char
 candidates::[String]
